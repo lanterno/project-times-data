@@ -32,7 +32,7 @@
         "state": "OFF",
         "estimated time": "This isn't a project. I created it to keep track of the time I send reading or studying about something. I think will be mainly python or django articles and videos and something that's generally related to programming.",
         "archived": false,
-        "total_spent_time": "99:49:56"
+        "total_spent_time": "103:11:30"
     },
     "mongo": {
         "details": "Studying the course M101P: MongoDB for Developers",
@@ -199,8 +199,8 @@
         "details": "Playing with different projects",
         "state": "OFF",
         "estimated time": "00",
-        "archived": false,
-        "total_spent_time": "5:35:56"
+        "archived": true,
+        "total_spent_time": "8:36:49"
     },
     "6.005.2x": {
         "details": "MITx course on Edx: Advanced Software Construction in Java",
@@ -220,7 +220,7 @@
         "details": "Delft design course.",
         "state": "OFF",
         "estimated time": "48",
-        "archived": false,
+        "archived": true,
         "total_spent_time": "2:49:53"
     },
     "learning_docker": {
@@ -241,7 +241,7 @@
         "details": "Edx Course: MITx: 7.00x Introduction to Biology - The Secret of Life",
         "state": "ON",
         "estimated time": "Unknown",
-        "archived": false,
+        "archived": true,
         "total_spent_time": "1:39:34"
     },
     "cube": {
@@ -298,7 +298,7 @@
         "state": "OFF",
         "estimated time": "Unknown",
         "archived": false,
-        "total_spent_time": "2445:31:10"
+        "total_spent_time": "2484:42:54"
     },
     "18.031x": {
         "details": "MITx: 18.031x Introduction to Differential Equations On EdX",
@@ -332,7 +332,7 @@
         "details": "Working on Sheeto project which is a future web implementation of PTC",
         "state": "OFF",
         "estimated time": "Unknown",
-        "archived": false,
+        "archived": true,
         "total_spent_time": "9:47:30"
     },
     "mean_stack": {
@@ -361,7 +361,7 @@
         "state": "ON",
         "estimated time": "undefined",
         "archived": false,
-        "total_spent_time": "21:46:9"
+        "total_spent_time": "26:43:22"
     },
     "school_ML": {
         "details": "School Course in ML - Note: I added a couple of hours in a dumy date representing the 1 or 2 lectures I attended.",
@@ -486,14 +486,14 @@
         "estimated time": "Unknown",
         "details": "My smart calender app named kal",
         "state": "OFF",
-        "archived": false,
+        "archived": true,
         "total_spent_time": "1:30:0"
     },
     "stc": {
         "estimated time": "Unknown",
         "details": "My full-time work at systematic computer science (Partner of STCS/STC) -> cloud.stc.com.sa",
         "state": "OFF",
-        "archived": false,
+        "archived": true,
         "total_spent_time": "964:31:36"
     },
     "LFS161x": {
@@ -507,25 +507,28 @@
         "estimated time": "unknown",
         "details": "unkown",
         "state": "OFF",
+        "archived": true,
         "total_spent_time": "0:46:43"
     },
     "6.034": {
         "estimated time": "unknown",
         "details": "MIT's course for Artificial Intelligence",
         "state": "OFF",
+        "archived": true,
         "total_spent_time": "4:45:57"
     },
     "AGI": {
         "estimated time": "Unknown",
         "details": "",
         "state": "OFF",
+        "archived": true,
         "total_spent_time": "1:5:21"
     },
     "edxgator": {
         "estimated time": "Unknown",
         "details": "Edx course aggregator project",
         "state": "OFF",
-        "total_spent_time": "32:43:43"
+        "total_spent_time": "38:6:11"
     },
     "korean": {
         "estimated time": "Unknown",
@@ -536,13 +539,14 @@
     "backmarket": {
         "estimated time": "Unknown",
         "details": "My new work home. :).. hopefully :D",
-        "state": "OFF",
-        "total_spent_time": "1122:29:45"
+        "state": "ON",
+        "total_spent_time": "1726:5:49"
     },
     "poliss": {
         "estimated time": "This project's goal is to create a hackathon app for backmarket",
         "details": "Unknown",
         "state": "OFF",
+        "archived": true,
         "total_spent_time": "5:48:22"
     },
     "learn-FE": {
@@ -555,6 +559,14 @@
         "estimated time": "Unknown",
         "details": "MITx: 6.431x - Probability - The Science of Uncertainty and Data",
         "state": "OFF",
+        "archived": true,
         "total_spent_time": "53:48:17"
+    },
+    "14.310x": {
+        "estimated time": "Unknown",
+        "details": "2nd course in the MITx micromaster in Statistics and Data Science",
+        "state": "OFF",
+        "archived": true,
+        "total_spent_time": "73:32:59"
     }
 }
