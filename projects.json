@@ -32,7 +32,7 @@
         "state": "OFF",
         "estimated time": "This isn't a project. I created it to keep track of the time I send reading or studying about something. I think will be mainly python or django articles and videos and something that's generally related to programming.",
         "archived": false,
-        "total_spent_time": "103:11:30"
+        "total_spent_time": "105:18:0"
     },
     "mongo": {
         "details": "Studying the course M101P: MongoDB for Developers",
@@ -199,8 +199,8 @@
         "details": "Playing with different projects",
         "state": "OFF",
         "estimated time": "00",
-        "archived": true,
-        "total_spent_time": "8:36:49"
+        "archived": false,
+        "total_spent_time": "11:40:30"
     },
     "6.005.2x": {
         "details": "MITx course on Edx: Advanced Software Construction in Java",
@@ -298,7 +298,7 @@
         "state": "OFF",
         "estimated time": "Unknown",
         "archived": false,
-        "total_spent_time": "2484:42:54"
+        "total_spent_time": "2502:56:11"
     },
     "18.031x": {
         "details": "MITx: 18.031x Introduction to Differential Equations On EdX",
@@ -528,19 +528,19 @@
         "estimated time": "Unknown",
         "details": "Edx course aggregator project",
         "state": "OFF",
-        "total_spent_time": "38:6:11"
+        "total_spent_time": "53:51:20"
     },
     "korean": {
         "estimated time": "Unknown",
         "details": "Learning the korean language",
         "state": "OFF",
-        "total_spent_time": "0:24:59"
+        "total_spent_time": "1:13:0"
     },
     "backmarket": {
         "estimated time": "Unknown",
         "details": "My new work home. :).. hopefully :D",
-        "state": "ON",
-        "total_spent_time": "1726:5:49"
+        "state": "OFF",
+        "total_spent_time": "2291:7:33"
     },
     "poliss": {
         "estimated time": "This project's goal is to create a hackathon app for backmarket",
@@ -553,7 +553,7 @@
         "estimated time": "Unknown",
         "details": "Learning everything about Frontend design and web development",
         "state": "OFF",
-        "total_spent_time": "2:21:57"
+        "total_spent_time": "3:25:47"
     },
     "6.431x": {
         "estimated time": "Unknown",
@@ -568,5 +568,29 @@
         "state": "OFF",
         "archived": true,
         "total_spent_time": "73:32:59"
+    },
+    "6.86x": {
+        "estimated time": "Machine Learning with Python-From Linear Models to Deep Learning",
+        "details": "Unknown",
+        "state": "OFF",
+        "total_spent_time": "151:26:21"
+    },
+    "shopping_list": {
+        "estimated time": "My first designed and built mobile app - made for collaborative shopping",
+        "details": "unknown",
+        "state": "OFF",
+        "total_spent_time": "0:51:57"
+    },
+    "pc-builder": {
+        "estimated time": "Unknown",
+        "details": "my journey to understanding the physical computer",
+        "state": "OFF",
+        "total_spent_time": "3:5:33"
+    },
+    "18.6501x": {
+        "estimated time": "Unknown",
+        "details": "MITx Fundamentals of Statistics 18.6501x",
+        "state": "OFF",
+        "total_spent_time": "48:0:30"
     }
 }
