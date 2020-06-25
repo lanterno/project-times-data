@@ -298,7 +298,7 @@
         "state": "OFF",
         "estimated time": "Unknown",
         "archived": false,
-        "total_spent_time": "2502:56:11"
+        "total_spent_time": "2506:47:42"
     },
     "18.031x": {
         "details": "MITx: 18.031x Introduction to Differential Equations On EdX",
@@ -358,10 +358,10 @@
     },
     "ptc": {
         "details": "Projects time manager tool.",
-        "state": "ON",
+        "state": "OFF",
         "estimated time": "undefined",
         "archived": false,
-        "total_spent_time": "26:43:22"
+        "total_spent_time": "46:45:40"
     },
     "school_ML": {
         "details": "School Course in ML - Note: I added a couple of hours in a dumy date representing the 1 or 2 lectures I attended.",
@@ -540,7 +540,7 @@
         "estimated time": "Unknown",
         "details": "My new work home. :).. hopefully :D",
         "state": "OFF",
-        "total_spent_time": "2291:7:33"
+        "total_spent_time": "2344:47:12"
     },
     "poliss": {
         "estimated time": "This project's goal is to create a hackathon app for backmarket",
@@ -591,6 +591,6 @@
         "estimated time": "Unknown",
         "details": "MITx Fundamentals of Statistics 18.6501x",
         "state": "OFF",
-        "total_spent_time": "48:0:30"
+        "total_spent_time": "48:38:58"
     }
 }
